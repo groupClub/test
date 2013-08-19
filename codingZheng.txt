@@ -1,1 +1,3 @@
 Hello, I am Zheng Hongyi
+
+The project of FirstStep is my first project for leaning cocos2d-x
